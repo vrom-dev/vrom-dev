@@ -16,11 +16,11 @@ Feel free to browse through my repositories!
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0A1A2F?style=flat&logo=graphql)
 ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-![Spring](https://img.shields.io/badge/-Spring-0A1A2F?style=flat&logo=spring)
+![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest)
 \
+![Spring](https://img.shields.io/badge/-Spring-0A1A2F?style=flat&logo=spring)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-![Oracle](https://img.shields.io/badge/-Oracle-0A1A2F?style=flat&logo=oracle)
 ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
