@@ -18,7 +18,7 @@ Feel free to browse through my repositories!
 ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest)
 \
-![Symfony](https://img.shields.io/badge/-Spring-0A1A2F?style=flat&logo=symfony)
+![Symfony](https://img.shields.io/badge/-Symfony-0A1A2F?style=flat&logo=symfony)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
 ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
